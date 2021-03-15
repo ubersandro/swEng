@@ -3,5 +3,6 @@ public class Prima {
         System.out.println("Ciao");
         System.out.println("C");
         System.out.println("asdasd");
+        System.out.println("asdasd");
     }
 }
