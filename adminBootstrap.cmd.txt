@@ -1,0 +1,2 @@
+
+java -cp build\classes\java\main -Djava.rmi.server.useCodebaseOnly=false  -Djava.security.policy=lab.policy -Djava.rmi.server.codebase=http://localhost:8080/ consolle.AdminCLIConsolle
